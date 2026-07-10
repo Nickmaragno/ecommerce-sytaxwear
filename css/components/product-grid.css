@@ -34,7 +34,7 @@
 
 .midR{
     grid-area: midR;
-    background: url(../../images/products/roxo-verde-grid.jpg);
+    background: url(../../images/products/moderno-grid.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -42,7 +42,7 @@
 
 .bottomL{
     grid-area: bottomL;
-    background:url(../../images/products/moderno-grid.jpg);
+    background:url(../../images/products/preto-azul-grid.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
